@@ -1,4 +1,0 @@
-ProjetoLojaPOO
-==============
-
-Projeto I - POO
